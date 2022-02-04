@@ -1,0 +1,28 @@
+{
+  "name": "devpedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/server.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "body-parser": "^1.19.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.0",
+    "fs": "^0.0.1-security",
+    "hbs": "^4.1.2",
+    "html": "^1.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
