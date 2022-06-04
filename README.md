@@ -1,4 +1,4 @@
 # devpedia
 wikipedia for developers !
 
-_This project is currently under devlopment _
+### This project is currently under devlopment
